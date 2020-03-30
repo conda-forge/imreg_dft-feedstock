@@ -10,7 +10,7 @@ source:
   sha256: bd36c17b7a4fd0ddb0821a68c216c9aa449c7fc1d22e7d13f80a129725370645
 
 build:
-  number: 1000
+  number: 1001
   entry_points:
     - ird = imreg_dft.cli:main
     - ird-tform = imreg_dft.tform:main
